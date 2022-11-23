@@ -1,0 +1,5 @@
+[gd_scene format=2]
+
+[node name="PIXEL" type="ColorRect"]
+margin_right = 2.0
+margin_bottom = 2.0
